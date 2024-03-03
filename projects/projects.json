@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Greeny",
+    "desc": "Plant Shop Static Website for desktop which used to buy plants thruogh Internet.",
+    "image": "greeny",
+    "category": "basicweb",
+    "links": {
+      "view": "https://suryakumars11.github.io/Greeny/",
+      "code": "https://github.com/SURYAKUMARS11/Greeny"
+    }
+  },
+  {
+    "name": "Vinzo",
+    "desc": "Full-Stack E-commerce Webpage,Responsive design ,Add custom products and  ready to use for business.",
+    "image": "vinzo",
+    "category": "basicweb",
+    "links": {
+      "view": "https://e-commerce-web-design-vert.vercel.app/",
+      "code": "https://github.com/SURYAKUMARS11/E-commerce-Web-design"
+    }
+  },
+  {
+    "name": "Netflix Clone",
+    "desc": "Official netflix Page Clone which is responsible for all users and replicative design. ",
+    "image": "netflix",
+    "category": "basicweb",
+    "links": {
+      "view": "https://netflix-clone-sandy-two.vercel.app/",
+      "code": "https://github.com/SURYAKUMARS11/Netflix-clone"
+    }
+  },
+  {
+    "name": "Simple-portfolio",
+    "desc": "Personal Portfolio Website using HTML,CSS and JS which includes about,projects and experaince.",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://suryakumar-portfolio.000webhostapp.com/",
+      "code": "https://github.com/SURYAKUMARS11/Suryakumar-portfolio"
+    }
+  },
+  {
+    "name": "RPS Game",
+    "desc": "A simple webpage to play Rock-Paper-Scissor Game with Win points and final winner.",
+    "image": "RPS",
+    "category": "basicweb",
+    "links": {
+      "view": "https://rps-game-chi.vercel.app/",
+      "code": "https://github.com/SURYAKUMARS11/RPS-GAME"
+    }
+  },
+  {
+    "name": "Airbnb clone",
+    "desc": "Official Airbnb Page Clone which is responsible for all users and replicative design. ",
+    "image": "airbnb",
+    "category": "basicweb",
+    "links": {
+      "view": "https://airbnb-two-xi.vercel.app/",
+      "code": "https://github.com/SURYAKUMARS11/Airbnb"
+    }
+  }
+]
