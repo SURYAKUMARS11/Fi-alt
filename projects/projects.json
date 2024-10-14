@@ -2,61 +2,61 @@
   {
     "name": "Envotech",
     "desc": " Tech Service Provider Company site Template.",
+    "image": "Envotech",
+    "category": "basicweb",
+    "links": {
+      "view": "https://envotech.vercel.app/",
+      "code": "https://github.com/SURYAKUMARS11/Envotech"
+    }
+  },
+  {
+    "name": "Festiva- live",
+    "desc": "Festiva is a music festival website template.",
+    "image": "Night",
+    "category": "basicweb",
+    "links": {
+      "view": "https://event-site-sigma.vercel.app/",
+      "code": "https://github.com/SURYAKUMARS11/Event-site"
+    }
+  },
+  {
+    "name": "Gym-website",
+    "desc": "Gym Website Template with all the sections like Home,About,Services,Contact etc.",
     "image": "Training-studio",
     "category": "basicweb",
     "links": {
-      "view": "https://suryakumars11.github.io/Greeny/",
-      "code": "https://github.com/SURYAKUMARS11/Greeny"
+      "view": "https://gym-website-flax.vercel.app/",
+      "code": "https://github.com/SURYAKUMARS11/Gym-website"
     }
   },
   {
-    "name": "Vinzo",
-    "desc": "Full-Stack E-commerce Webpage,Responsive design ,Add custom products and  ready to use for business.",
-    "image": "vinzo",
-    "category": "basicweb",
-    "links": {
-      "view": "https://e-commerce-web-design-vert.vercel.app/",
-      "code": "https://github.com/SURYAKUMARS11/E-commerce-Web-design"
-    }
-  },
-  {
-    "name": "Netflix Clone",
-    "desc": "Official netflix Page Clone which is responsible for all users and replicative design. ",
-    "image": "netflix",
-    "category": "basicweb",
-    "links": {
-      "view": "https://netflix-clone-sandy-two.vercel.app/",
-      "code": "https://github.com/SURYAKUMARS11/Netflix-clone"
-    }
-  },
-  {
-    "name": "Simple-portfolio",
+    "name": "Personla Portfolio",
     "desc": "Personal Portfolio Website using HTML,CSS and JS which includes about,projects and experaince.",
-    "image": "portfolio",
+    "image": "port",
     "category": "basicweb",
     "links": {
-      "view": "https://suryakumar-portfolio.000webhostapp.com/",
-      "code": "https://github.com/SURYAKUMARS11/Suryakumar-portfolio"
+      "view": "https://fi-alt.vercel.app/",
+      "code": "https://github.com/SURYAKUMARS11/portfolio"
     }
   },
   {
-    "name": "RPS Game",
-    "desc": "A simple webpage to play Rock-Paper-Scissor Game with Win points and final winner.",
-    "image": "RPS",
+    "name": "Faster-website",
+    "desc": "Logistics Website Template with all the sections like Home,About,Services,Contact etc.",
+    "image": "Faster",
     "category": "basicweb",
     "links": {
-      "view": "https://rps-game-chi.vercel.app/",
-      "code": "https://github.com/SURYAKUMARS11/RPS-GAME"
+      "view": "https://faster-flax.vercel.app/",
+      "code": "https://github.com/SURYAKUMARS11/Faster"
     }
   },
   {
-    "name": "Airbnb clone",
-    "desc": "Official Airbnb Page Clone which is responsible for all users and replicative design. ",
-    "image": "airbnb",
+    "name": "Cookery-site",
+    "desc": "Cookery Website Template with all the sections like Home,About,Services,Contact etc.",
+    "image": "cook",
     "category": "basicweb",
     "links": {
-      "view": "https://airbnb-two-xi.vercel.app/",
-      "code": "https://github.com/SURYAKUMARS11/Airbnb"
+      "view": "https://cookery-site.vercel.app/",
+      "code": "https://github.com/SURYAKUMARS11/Cookery-site"
     }
   }
 ]
