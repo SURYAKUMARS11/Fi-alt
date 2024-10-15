@@ -1,6 +1,6 @@
 [
   {
-    "name": "Envotech",
+    "name": "Agency-Envotech",
     "desc": " Tech Service Provider Company site template which has sections like services,aboutus,Contact.",
     "image": "Envotech",
     "category": "basicweb",
@@ -10,7 +10,7 @@
     }
   },
   {
-    "name": "Festiva- live",
+    "name": "Music concert - Festiva-live",
     "desc": "Festiva is a music festival website templat which includes book ticket option , contact",
     "image": "Night",
     "category": "basicweb",
@@ -30,7 +30,7 @@
     }
   },
   {
-    "name": "Personla Portfolio",
+    "name": "Personal Portfolio",
     "desc": "Personal Portfolio Website using HTML,CSS and JS which includes about,projects and experaince.",
     "image": "port",
     "category": "basicweb",
@@ -40,7 +40,7 @@
     }
   },
   {
-    "name": "Faster-website",
+    "name": "Logistic site-Faster",
     "desc": "Logistics Website Template with all the sections like Home,About,Services,Contact etc.",
     "image": "Faster",
     "category": "basicweb",
@@ -50,7 +50,7 @@
     }
   },
   {
-    "name": "Cookery-site",
+    "name": "Cookery site - Fiane",
     "desc": "Cookery Website Template with all the sections like Home,About,Services,Contact etc.",
     "image": "cook",
     "category": "basicweb",
