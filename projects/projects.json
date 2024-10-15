@@ -1,7 +1,7 @@
 [
   {
     "name": "Envotech",
-    "desc": " Tech Service Provider Company site Template.",
+    "desc": " Tech Service Provider Company site Template.Which has sections like services,aboutus , Contact.",
     "image": "Envotech",
     "category": "basicweb",
     "links": {
@@ -11,7 +11,7 @@
   },
   {
     "name": "Festiva- live",
-    "desc": "Festiva is a music festival website template.",
+    "desc": "Festiva is a music festival website templat which includes book ticket option , contact",
     "image": "Night",
     "category": "basicweb",
     "links": {
