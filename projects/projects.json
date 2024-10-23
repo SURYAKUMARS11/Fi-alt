@@ -20,9 +20,9 @@
     }
   },
   {
-    "name": "Gym-website",
+    "name": "Gym-fitness-website",
     "desc": "Gym Website Template with all the sections like Home,About,Services,Contact etc.",
-    "image": "Zymmy club",
+    "image": "fit",
     "category": "basicweb",
     "links": {
       "view": "https://gym-fit-jet.vercel.app/",
