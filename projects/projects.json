@@ -22,10 +22,10 @@
   {
     "name": "Gym-website",
     "desc": "Gym Website Template with all the sections like Home,About,Services,Contact etc.",
-    "image": "Training-studio",
+    "image": "Zymmy club",
     "category": "basicweb",
     "links": {
-      "view": "https://gym-website-flax.vercel.app/",
+      "view": "https://gym-fit-jet.vercel.app/",
       "code": "https://github.com/SURYAKUMARS11/Gym-website"
     }
   },
