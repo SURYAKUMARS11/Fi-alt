@@ -1,6 +1,7 @@
 {
-    "name": "skbus",
+    "name": "portfolio",
     "short_name": "App",
+    "id": "/index.html",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
