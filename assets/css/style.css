@@ -128,6 +128,46 @@ header .navbar ul li a:hover {
 }
 /* navbar ends */
 
+.whatsapp-button {
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  width: 50px;
+  height: 50px;
+  z-index: 1000;
+  animation: glow 1.5s infinite alternate;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #25D366; /* WhatsApp green color background */
+  border-radius: 50%;
+  box-shadow: 0 0 10px 5px rgba(0, 255, 0, 0.6); /* Initial subtle glow */
+  overflow: hidden; /* Ensures the image does not overflow */
+}
+
+.whatsapp-button img {
+  width: 80%;
+  height: 100%;
+  border-radius: 50%;
+  transition: transform 0.2s;
+}
+
+/* Keyframes for continuous glowing effect */
+@keyframes glow {
+  from {
+    box-shadow: 0 0 10px 5px rgba(0, 255, 0, 0.6);
+  }
+  to {
+    box-shadow: 0 0 20px 15px rgba(0, 255, 0, 0.8);
+  }
+}
+
+/* Optional Hover Effect */
+.whatsapp-button:hover img {
+  transform: scale(1.1);
+}
+
+
 /* hamburger icon starts*/
 #menu {
   font-size: 3rem;
